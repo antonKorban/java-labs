@@ -1,4 +1,4 @@
-package edu.ntudp.fit.korban;
+package edu.ntudp.fit.korban.lab1;
 
 public class Runner {
     public static void main(String[] args) {
